@@ -3,7 +3,6 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Módulo 01 de HTML5 e CSS3.</title>
 </head>
 <body>
     <header>
@@ -27,8 +26,16 @@
             <li><a href="https://jonh-dev.github.io/html-css-modulo001/Exercicios/ex013/index.html">Exercício 013</a></li>
         </ul>
         <h2>A seguir estarão os desafios feitos durante o módulo 01.</h2>
-        <ul style="list-style-position: inside;">
+        <ul style="columns: 2; list-style-position: inside;">
             <li><a href="https://jonh-dev.github.io/html-css-modulo001/Desafios/d001/index.html">Desafio 001</a></li>
+            <li><a href="https://jonh-dev.github.io/html-css-modulo001/Desafios/d002/index.html">Desafio 002</a></li>
+            <li><a href="https://jonh-dev.github.io/html-css-modulo001/Desafios/d003/index.html">Desafio 003</a></li>
+            <li><a href="https://jonh-dev.github.io/html-css-modulo001/Desafios/d004/index.html">Desafio 004</a></li>
+            <li><a href="https://jonh-dev.github.io/html-css-modulo001/Desafios/d005/index.html">Desafio 005</a></li>
+            <li><a href="https://jonh-dev.github.io/html-css-modulo001/Desafios/d006/index.html">Desafio 006</a></li>
+            <li><a href="https://jonh-dev.github.io/html-css-modulo001/Desafios/d007/index.html">Desafio 007</a></li>
+            <li><a href="https://jonh-dev.github.io/html-css-modulo001/Desafios/d008/index.html">Desafio 008</a></li>
+            <li><a href="https://jonh-dev.github.io/html-css-modulo001/Desafios/d009/index.html">Desafio 009</a></li>
         </ul>
     </section>
 </body>
