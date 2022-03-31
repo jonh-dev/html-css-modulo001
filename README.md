@@ -40,7 +40,7 @@
         </ul>
     </section>
     <footer>
-        <p><a href="https://github.com/jonh-dev/html-css-modulo001" target="_blank" style="text-decoration: none; border-top: 1px solid rgba(0, 0, 0, 0.171);">Ver os arquivos separados.</a></p>
+        <h2><a href="https://github.com/jonh-dev/html-css-modulo001" target="_blank">Ver os arquivos separados.</a></h2>
     </footer>
 </body>
 </html>
