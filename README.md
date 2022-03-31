@@ -41,7 +41,7 @@
     </section>
     <h2></h2>
     <footer>
-        <p><center><a href="https://github.com/jonh-dev/html-css-modulo001" target="_blank">Ver os arquivos separados.</a></center></p>
+        <p><a href="https://github.com/jonh-dev/html-css-modulo001" target="_blank">Ver os arquivos separados.</a></p>
     </footer>
 </body>
 </html>
