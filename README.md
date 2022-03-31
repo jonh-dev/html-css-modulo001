@@ -39,8 +39,9 @@
             <li><a href="https://jonh-dev.github.io/html-css-modulo001/Desafios/d009/index.html">Desafio 009</a></li>
         </ul>
     </section>
+    <h2></h2>
     <footer>
-        <h2><a href="https://github.com/jonh-dev/html-css-modulo001" target="_blank">Ver os arquivos separados.</a></h2>
+        <h2><center><a href="https://github.com/jonh-dev/html-css-modulo001" target="_blank">Ver os arquivos separados.</a><center></h2>
     </footer>
 </body>
 </html>
