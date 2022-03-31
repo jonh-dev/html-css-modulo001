@@ -1,0 +1,27 @@
+.markdown-body hr{
+    height: 0.1em;
+}
+
+footer{
+    text-align: center;
+    margin: 10px 0px 3px 0px;
+}
+
+footer a{
+    background-color: rgba(136, 135, 135, 0.404);
+    margin-top: 10px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    padding: 5px;
+    border-radius: 8px;
+    border: 1px solid black;
+}
+
+footer a:hover{
+    color: #000000;
+    padding: 5px;
+    text-decoration: underline;
+    background-color: gainsboro;
+    border-radius: 8px;
+}
